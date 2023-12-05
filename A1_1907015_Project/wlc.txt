@@ -1,0 +1,59 @@
+#contain<header.h>
+func int function1 ( 1 ) { int a=10;  return 20;}
+func int function2 ( 1 , 2 ) { 
+	int x=10,y=15;
+	loop # x # x<15 # x=x+1 # y=10; #
+	if(1<2){ show(x);  }
+	factorial(5);
+
+	return 1;
+}
+
+	
+int  main()
+{
+    int a,b=10;
+int m=1+2+3*3/4;
+
+function1 ();
+function1 (1);
+function2 (1,2);
+function3();
+
+** comment
+
+
+    loop # a = 10 # a < 15 #  a=a+1 # b=11; #
+loop # a = 10 # a < 15 #  a=a+1 # 
+loop # a = 10 # a < 15 #  a=a+1 # b=11; #
+#
+
+
+
+
+prime(14);
+factorial(5);
+sin ( 1.5 );
+cos(0.5);
+tan(0.5);
+float c;
+int d;
+c = input(1);
+d = input(2.5);
+b=11;
+show(c);
+show(d);
+show(c+10);
+show(d+10.5);
+
+loop # a = 10 # a < 15 #  a=a+1 # 
+a=1;
+if(1<2){ show(x);  } else { show(y);
+	if(1<2){ show(x);  } else { show(y); }
+ }
+#
+
+if(1<2){ show(x);  }
+
+}
+

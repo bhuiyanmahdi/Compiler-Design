@@ -1,0 +1,143 @@
+HEADERFILE included
+
+
+User defined function started
+Variable a is declared 
+float 20 0
+User defined function ended
+
+
+User defined function started
+Variable y is declared
+Variable x is declared 
+
+
+LOOP STARTED
+value of var is 10
+value of var is 11
+value of var is 12
+value of var is 13
+value of var is 14
+LOOP ENDED
+
+printing : 10.000000
+
+  IF executed
+
+Factorial of 5 = 120
+float 1 0
+User defined function ended
+
+
+Main Started.
+
+Variable b is declared
+variable a already exists
+Variable m is declared 
+
+No of parameter do not match
+
+User defined Funtion Called
+
+No of parameter do not match
+
+Function does not exist.
+
+
+SINGLE_LINE_COMMENT
+
+
+
+LOOP STARTED
+value of var is 10
+value of var is 11
+value of var is 12
+value of var is 13
+value of var is 14
+LOOP ENDED
+
+
+LOOP STARTED
+
+
+LOOP STARTED
+value of var is 10
+value of var is 11
+value of var is 12
+value of var is 13
+value of var is 14
+LOOP ENDED
+value of var is 10
+value of var is 11
+value of var is 12
+value of var is 13
+value of var is 14
+LOOP ENDED
+
+14 is not a prime number.
+
+Factorial of 5 = 120
+The value of sin(1.500000) : 0.997495 
+The value of cos(0.500000) : 0.877583 
+The value of tan(0.500000) : 0.546302 
+Variable c is declared
+Variable d is declared
+
+User input is at variable c with value 1
+
+User input is at variable d with value 2.500000
+
+printing : 1.000000
+
+printing : 2.000000
+
+printing : 11.000000
+
+printing : 12.500000
+
+
+LOOP STARTED
+
+printing : 10.000000
+
+printing : 10.000000
+
+printing : 10.000000
+
+printing : 10.000000
+
+  IF ELSE executed
+
+  IF ELSE executed
+value of var is 10
+value of var is 11
+value of var is 12
+value of var is 13
+value of var is 14
+LOOP ENDED
+
+printing : 10.000000
+
+  IF executed
+
+
+Symbol Table:
+Name                IsAssigned     IntValue       FloatValue     DataType       
+a                   1              1              -              INT            
+y                   1              10             -              INT            
+x                   1              10             -              INT            
+b                   1              11             -              INT            
+m                   1              4              -              INT            
+c                   1              -              1.00           FLOAT          
+d                   1              2              -              INT            
+
+
+Function Table:
+Name                No_of_Param    Return_Int     Return_Float   Return_Type    
+function1           1              20             -              INT            
+function2           2              1              -              INT            
+
+
+Main ENDED
+
+Parser is finished
