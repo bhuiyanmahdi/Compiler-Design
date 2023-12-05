@@ -1,0 +1,19 @@
+#contain<header.h>
+int  main()
+{
+    intg a1 =10 , a11  ,b3=  1000 ;
+    intg a12 =10 ,  a23  ,b34=  1000 ;
+    intg b2 =2;
+    floating f11=22, f2;
+    floating f;
+    string s1;
+    char c1;
+    loop # a1=10 # a1<20 # a1=a1+1  #   print("body");    a=b+10 + 20;   #
+    loop # a12=10 # a12<20 # a12=a12+1  #   print("body"); print("body");       #
+    if # i<j # a=b+c; #
+    ## hello 
+    this is
+    multiline comment ##
+    ** single line comment
+    return 0;
+}

@@ -1,0 +1,17 @@
+Header file Included.      
+Code started
+variable declared
+variable declared
+variable declared
+variable declared
+variable declared
+variable declared
+variable declared
+found loop
+found loop
+if found
+Multiline comment
+Singleline comment
+Code ended.
+Total no of statements : 15
+Total no of keyword : 10
